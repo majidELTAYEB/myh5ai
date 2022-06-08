@@ -1,0 +1,14 @@
+
+.treeview-folder {
+    list-style-image: url('folder(1).png');
+
+    
+}
+.treeview-file {
+    list-style-image: url('png-file-icon-20.jpg.png');
+    
+}
+
+html{
+    color: red;
+}
